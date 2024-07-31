@@ -30,6 +30,3 @@ Tools and Techniques
 - Excel: Compiled reservoir parameters and well data.
 - Interactive Dashboards: Created for a comprehensive view of the Kyle field data.
 
-Future Work
-- Further study and analysis to obtain additional log data and perforation data for the remaining wells.
-- Continual refinement of dashboards and data visualization for improved insights.
